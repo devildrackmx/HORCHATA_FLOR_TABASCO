@@ -64,7 +64,7 @@ return [
     */
 
     'logo' => '<b>Flor</b> de Tabasco',
-    'logo_img' => '/image/Logo_FlorTabasco.png',
+    'logo_img' => '/image/logo_FlorTabasco.png',
     'logo_img_class' => 'brand-image img-circle elevation-3',
     'logo_img_xl' => null,
     'logo_img_xl_class' => 'brand-image-xs',
@@ -109,7 +109,7 @@ return [
     'preloader' => [
         'enabled' => true,
         'img' => [
-            'path' => '/image/Logo_FlorTabasco.png',
+            'path' => '/image/logo_FlorTabasco.png',
             'alt' => 'AdminLTE Preloader Image',
             'effect' => 'animation__shake',
             'width' => 60,
